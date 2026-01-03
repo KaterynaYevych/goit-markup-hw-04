@@ -237,7 +237,7 @@ img {
 
 .contacts-item-link {
   padding: 24px 0;
-  color 250ms cubic-bezier(0.4, 0, 0.2, 1)
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .contacts-item-link:hover,

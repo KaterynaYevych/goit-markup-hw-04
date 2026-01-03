@@ -1,3 +1,3 @@
-# goit-markup-hw-03
+# goit-markup-hw-04
 
-HW 3 Тема 3. Блокова модель. Flexbox
+HW 4 Тема 4. Декоративні ефекти. Анiмацiя
