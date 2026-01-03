@@ -214,7 +214,8 @@ img {
 }
 
 .header-item-link:hover,
-.header-item-link:focus .header-item-link:active {
+.header-item-link:focus,
+.header-item-link:active {
   color: #404bbf;
 }
 
